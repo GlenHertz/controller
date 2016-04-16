@@ -1,0 +1,98 @@
+Name = SpaceBarSplit;
+Version = 0.1;
+Author = "Glen Hertz 2016";
+KLL = 0.3c;
+
+# Modified Date
+Date = 2015-09-29;
+
+# First row (left to right)
+S0x00 : U"Esc";
+S0x01 : U"Backtick";
+S0x02 : U"1";
+S0x03 : U"2";
+S0x04 : U"3";
+S0x05 : U"4";
+S0x06 : U"5";
+S0x07 : U"6";
+S0x08 : U"7";
+S0x09 : U"8";
+S0x0A : U"9";
+S0x0B : U"0";
+S0x0C : U"Minus";
+S0x0D : U"Equals";
+S0x0E : U"Backspace";
+S0x0F : U"PageUp";
+
+# Second row:
+S0x10 : U"F1"; # Colemak
+S0x11 : U"Tab";
+S0x12 : U"Q";
+S0x13 : U"W";
+S0x14 : U"E";
+S0x15 : U"R";
+S0x16 : U"T";
+S0x17 : U"Y";
+S0x18 : U"U";
+S0x19 : U"I";
+S0x1A : U"O";
+S0x1B : U"P";
+S0x1C : U"LBrace";
+S0x1D : U"RBrace";
+S0x1E : U"Backslash";
+S0x1F : U"PageDown";
+
+# Third row:
+#S0x20 : U"NoKey";
+#S0x21 : U"NoKey";
+S0x22 : U"CapsLock";
+S0x23 : U"A";
+S0x24 : U"S";
+S0x25 : U"D";
+S0x26 : U"F";
+S0x27 : U"G";
+S0x28 : U"H";
+S0x29 : U"J";
+S0x2A : U"K";
+S0x2B : U"L";
+S0x2C : U"Semicolon";
+S0x2D : U"Quote";
+S0x2E : U"Enter";
+S0x2F : U"Home";
+
+# Forth row:
+#S0x30 : U"NoKey";
+S0x31 : U"F4";
+S0x32 : U"LShift";
+S0x33 : U"Z";
+S0x34 : U"X";
+S0x35 : U"C";
+S0x36 : U"V";
+S0x37 : U"B";
+S0x38 : U"N";
+S0x39 : U"M";
+S0x3A : U"Comma";
+S0x3B : U"Period";
+S0x3C : U"Slash";
+S0x3D : U"RShift";
+S0x3E : U"Up";
+S0x3F : U"End";
+
+# Fifth row:
+#S0x40 : U"NoKey";
+#S0x41 : U"NoKey";
+#S0x42 : U"NoKey";
+#S0x43 : U"NoKey";
+S0x44 : U"LCtrl";
+S0x45 : U"LAlt";
+S0x46 : U"Menu";
+S0x47 : U"Function1";
+S0x48 : U"LGui";
+S0x49 : U"Space";
+S0x4A : U"RGui";
+S0x4B : U"RAlt";
+S0x4C : U"RCtrl";
+S0x4D : U"Left";
+S0x4E : U"Down";
+S0x4F : U"Right";
+

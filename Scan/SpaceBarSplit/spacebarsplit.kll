@@ -1,0 +1,35 @@
+Name = spacebarsplit;
+Version = 0.1;
+Author = "Glen Hertz 2016
+KLL = 0.3c;
+
+# Modified Date
+Date = 2016-04-16;
+
+# Number Row
+U"Backtick"  : U"PrintScreen";
+U"1"         : U"F1";
+U"2"         : U"F2";
+U"3"         : U"F3";
+U"4"         : U"F4";
+U"5"         : U"F5";
+U"6"         : U"F6";
+U"7"         : U"F7";
+U"8"         : U"F8";
+U"9"         : U"F9";
+U"0"         : U"F10";
+U"-"         : U"F11";
+U"="         : U"F12";
+U"Backspace" : U"Delete";
+
+# Arrow keys
+U"Left"     : U"Home";
+U"Right"    : U"End";
+U"Up"       : U"PageUp";
+U"Down"     : U"PageDown";
+
+# Bottom row
+U"LCtrl"     : U"RCtrl"
+U"Menu"      : U"LGui";
+U"Space"     : U"Backspace";
+
